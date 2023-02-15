@@ -43,6 +43,18 @@ const changeFontSize = (even) => {
     localStorage.setItem("fontSize", selectedFontSize);
 };
 
+
+
+
+
+
+
+
+
+
+
+
+
 // changeBgColor
 const changeBgColor = (even) => {
     const selectedBgColor = even.target.value;
